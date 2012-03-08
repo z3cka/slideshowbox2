@@ -1,0 +1,6 @@
+name = Slideshowbox 2
+description = Display slideshows of external images via feeds.
+core = 7.x
+package = Media
+
+version = 7.x-1.x-dev
